@@ -162,7 +162,7 @@ function formatDate (date: Date): string {
       'Oct',
       'Nov',
       'Dec'
-    ][date.getMonth()]
+    ][date.getMonth()-1]
   } ${date.getFullYear()}`
 }
 
