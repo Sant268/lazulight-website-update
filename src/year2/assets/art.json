@@ -108,6 +108,87 @@
       "elira": "",
       "pomu": "",
       "finana": ""
+    },
+    {
+      "name": "Dark Grey Clouds",
+      "social": "https://twitter.com/darkgreyclouds",
+      "flag": "/anniversary2/stamps/Stamp-US.webp",
+      "lazulight": "/anniversary2/fanart/lazulight_07.webp",
+      "elira": "",
+      "pomu": "",
+      "finana": ""
+    },
+    {
+      "name": "Usny",
+      "social": "https://twitter.com/Usny",
+      "flag": "/anniversary2/stamps/Stamp-US.webp",
+      "lazulight": "/anniversary2/fanart/lazulight_11.webp",
+      "elira": "/anniversary2/fanart/elira_07.webp",
+      "pomu": "",
+      "finana": "/anniversary2/fanart/finana_04.webp"
+    },
+    {
+      "name": "Usny",
+      "social": "https://twitter.com/Usny",
+      "flag": "/anniversary2/stamps/Stamp-US.webp",
+      "lazulight": "/anniversary2/fanart/lazulight_12.webp",
+      "elira": "/anniversary2/fanart/elira_08.webp",
+      "pomu": "",
+      "finana": "/anniversary2/fanart/finana_05.webp"
+    },
+    {
+      "name": "Usny",
+      "social": "https://twitter.com/Usny",
+      "flag": "/anniversary2/stamps/Stamp-US.webp",
+      "lazulight": "",
+      "elira": "/anniversary2/fanart/elira_09.webp",
+      "pomu": "",
+      "finana": "/anniversary2/fanart/finana_06.webp"
+    },
+    {
+      "name": "Usny",
+      "social": "https://twitter.com/Usny",
+      "flag": "/anniversary2/stamps/Stamp-US.webp",
+      "lazulight": "",
+      "elira": "/anniversary2/fanart/elira_10.webp",
+      "pomu": "",
+      "finana": ""
+    },
+    {
+      "name": "wildnexus",
+      "social": "https://twitter.com/wildnexus",
+      "flag": "/anniversary2/stamps/Stamp-US.webp",
+      "lazulight": "/anniversary2/fanart/lazulight_09.webp",
+      "elira": "/anniversary2/fanart/elira_05.webp",
+      "pomu": "/anniversary2/fanart/pomu_07.webp",
+      "finana": "/anniversary2/fanart/finana_03.webp"
+    },
+    {
+      "name": "Ange",
+      "social": "",
+      "flag": "",
+      "lazulight": "",
+      "elira": "/anniversary2/fanart/elira_06.webp",
+      "pomu": "",
+      "finana": ""
+    },
+    {
+      "name": "WildestDuck",
+      "social": "",
+      "flag": "",
+      "lazulight": "/anniversary2/fanart/lazulight_08.webp",
+      "elira": "",
+      "pomu": "",
+      "finana": ""
+    },
+    {
+      "name": "WildestDuck",
+      "social": "",
+      "flag": "",
+      "lazulight": "/anniversary2/fanart/lazulight_10.webp",
+      "elira": "",
+      "pomu": "",
+      "finana": ""
     }
   ]
 }
