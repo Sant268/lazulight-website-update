@@ -4,17 +4,20 @@ import { Timeline } from '../components/Timeline'
 import MessageBoxesLayout from '../../year1/components/MessageBoxesLayout' // '../components/MessageBoxesLayout'
 import ImportMessages from '../../year2/components/ImportMessages' // '../components/ImportMessages'
 import MessageBoxesWithFlags from '../components/MessageBoxesWithFlags'
+import classesH from '../components/Headings.module.scss'
 
 export default function Finana (): JSX.Element {
   const firstName = 'Finana'
   const firstNameLower = firstName.toLowerCase()
 
   return (
-  // <div>
-  //   test
-  // </div>
-
     <>
+      <div>
+        <h1 className={classesH.finana}>
+          <span>Happy</span> <span>2nd</span> <span>Anniversary</span><br /><span>Finana!</span>
+        </h1>
+      </div>
+
       <Timeline memories={[
         {
           type: 'youtube',
