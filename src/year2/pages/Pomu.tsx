@@ -4,6 +4,7 @@ import { Timeline } from '../components/Timeline'
 import MessageBoxesLayout from '../../year1/components/MessageBoxesLayout' // '../components/MessageBoxesLayout'
 import ImportMessages from '../../year2/components/ImportMessages' // '../components/ImportMessages'
 import MessageBoxesWithFlags from '../components/MessageBoxesWithFlags'
+import classesH from '../components/Headings.module.scss'
 
 export default function Pomu (): JSX.Element {
   const firstName = 'Pomu'
@@ -11,6 +12,12 @@ export default function Pomu (): JSX.Element {
 
   return (
     <>
+      <div>
+        <h1 className={classesH.pomu}>
+          <span>Happy</span> <span>2nd</span> <span>Anniversary</span><br /><span>Pomu!</span>
+        </h1>
+      </div>
+
       <Timeline memories={[
         {
           type: 'youtube',
