@@ -20,6 +20,7 @@ export default function SiteFooter ({
         <p>We give permission to all Nijisanji Livers to monetize viewing this website by any means, including livestream and video publication. We declare that any copyright material on this website is used with permission and, where applicable, used within the terms of its license. We declare that this website does not contain any material that violates the YouTube Community Guidelines.</p>
         <h4>Disclaimer:</h4>
         <p>This is a fan website, made by fans. We aimed to create this website in compliance with the <ExLinkA href='https://event.nijisanji.app/guidelines/en/'>ANYCOLOR - Guidelines for Secondary Creation</ExLinkA>. If there are any concerns or enquiries, please contact us by email at <a href='mailto:lazuprojectsteam@gmail.com'>lazuprojectsteam@gmail.com</a>.</p>
+        <p>Thundercookie15 is the sole owner of the domain "lazulight.com" and the server running this website. If at any point in time Nijisanji or it's affiliated companies request this website to be taken offline, you can contact me via email at <a href='mailto:lazuprojectsteam@gmail.com'>lazuprojectsteam@gmail.com</a> or through Twitter DMs <a href='https://twitter.com/thundercookie15'>@thundercookie15</a>.</p>
       </footer>
     </>
   )

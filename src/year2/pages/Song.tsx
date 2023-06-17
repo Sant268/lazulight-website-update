@@ -19,7 +19,7 @@ const countdownRenderer = ({
   )
 }
 
-const releaseDate = '2023-06-16T03:00:00+09:00'
+const releaseDate = '2023-06-17T16:59:00+02:00'
 
 export default function Song (): JSX.Element {
   return (
@@ -47,7 +47,7 @@ export default function Song (): JSX.Element {
           textAlign: 'center'
         }}
         >
-          (16th June 2023)
+          (17th June 2023)
         </p>
 
       </Textbox>
