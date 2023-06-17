@@ -20,7 +20,7 @@ const countdownRenderer = ({
   )
 }
 
-const releaseDate = '2023-06-17T18:00:00+00:00'
+const releaseDate = '2023-06-17T20:00:00+02:00'
 
 export default function Song (): JSX.Element {
   return (
