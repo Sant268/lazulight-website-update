@@ -7,7 +7,7 @@ export default function SongCredits (): JSX.Element {
     <>
       <h2>Credits</h2>
       <div className={classesCredits.text}>
-        <h3>Organiser & Team Lead</h3>
+        <h3>Organiser &amp; Team Lead</h3>
         <ul>
           <li><p><ExLinkA href='https://twitter.com/coldace_24'>Zephyr Monochrome</ExLinkA></p></li>
         </ul>
@@ -15,7 +15,7 @@ export default function SongCredits (): JSX.Element {
         <ul>
           <li><p><ExLinkA href='https://twitter.com/HirokawaKiro'>Kiro</ExLinkA></p></li>
         </ul>
-        <h3>Song Composer & Producer</h3>
+        <h3>Song Composer &amp; Producer</h3>
         <ul>
           <li><p><ExLinkA href='https://twitter.com/NLevnekov'>Nikolai Levnekov</ExLinkA></p></li>
         </ul>
