@@ -1,4 +1,5 @@
 import React from 'react'
+import SongCredits from '../components/SongCredits'
 import Countdown, { CountdownRenderProps } from 'react-countdown'
 import { Textbox } from '../components/Textbox'
 import classesVideo from '../../year1/components/Video.module.scss'
@@ -19,7 +20,7 @@ const countdownRenderer = ({
   )
 }
 
-const releaseDate = '2023-06-17T16:59:00+02:00'
+const releaseDate = '2023-06-17T18:00:00+00:00'
 
 export default function Song (): JSX.Element {
   return (
@@ -50,6 +51,10 @@ export default function Song (): JSX.Element {
           (17th June 2023)
         </p>
 
+      </Textbox>
+
+      <Textbox>
+        <SongCredits />
       </Textbox>
     </>
   )
