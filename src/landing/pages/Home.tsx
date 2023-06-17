@@ -57,6 +57,7 @@ export default function Home (): JSX.Element {
 
           <h3>Disclaimer:</h3>
           <p>This is a fan website, made by fans. We aimed to create this website in compliance with the <ExLink href='https://event.nijisanji.app/guidelines/en/'>ANYCOLOR - Guidelines for Secondary Creation</ExLink>.<br />If there are any concerns or enquiries, please contact us by email at <ExLink href='mailto:lazuprojectsteam@gmail.com'>lazuprojectsteam@gmail.com</ExLink>.</p>
+          <p>Thundercookie15 is the sole owner of the domain "lazulight.com" and the server running this website. If at any point in time Nijisanji or it's affiliated companies request this website to be taken offline, you can contact me via email at <a href='mailto:lazuprojectsteam@gmail.com'>lazuprojectsteam@gmail.com</a> or through Twitter DMs <a href='https://twitter.com/thundercookie15'>@thundercookie15</a>.</p>
 
           <h3>Credits (Landing Page)</h3>
           <table>
