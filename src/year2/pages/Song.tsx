@@ -34,21 +34,6 @@ export default function Song (): JSX.Element {
             allowFullScreen
           />
         </div>
-        <p style={{
-          marginTop: '2rem',
-          fontSize: '4.5vw',
-          textAlign: 'center'
-        }}
-        >
-          Release: <Countdown date={releaseDate} renderer={countdownRenderer} />
-        </p>
-        <p style={{
-          fontSize: '2.5vw',
-          textAlign: 'center'
-        }}
-        >
-          (17th June 2023)
-        </p>
 
       </Textbox>
     </>
