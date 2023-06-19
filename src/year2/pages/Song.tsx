@@ -1,26 +1,6 @@
-import React from 'react'
 import SongCredits from '../components/SongCredits'
-import Countdown, { CountdownRenderProps } from 'react-countdown'
 import { Textbox } from '../components/Textbox'
 import classesVideo from '../../year1/components/Video.module.scss'
-
-const countdownRenderer = ({
-  days,
-  hours,
-  minutes,
-  seconds,
-  completed
-}: CountdownRenderProps): JSX.Element => {
-  if (completed) {
-    return <>Soon</>
-  }
-  // Render countdown
-  return (
-    <>{days} days, {hours}h:{minutes}m:{seconds}s</>
-  )
-}
-
-const releaseDate = '2023-06-17T20:00:00+02:00'
 
 export default function Song (): JSX.Element {
   return (
@@ -35,21 +15,6 @@ export default function Song (): JSX.Element {
             allowFullScreen
           />
         </div>
-        <p style={{
-          marginTop: '2rem',
-          fontSize: '4.5vw',
-          textAlign: 'center'
-        }}
-        >
-          Release: <Countdown date={releaseDate} renderer={countdownRenderer} />
-        </p>
-        <p style={{
-          fontSize: '2.5vw',
-          textAlign: 'center'
-        }}
-        >
-          (17th June 2023)
-        </p>
 
       </Textbox>
 
