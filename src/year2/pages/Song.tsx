@@ -8,7 +8,7 @@ export default function Song (): JSX.Element {
       <Textbox>
         <div className={classesVideo.container}>
           <iframe
-            src='https://www.youtube.com/embed/2w9x1dfV9lA'
+            src='https://www.youtube.com/embed/YlOwkwdygY0'
             title='YouTube video player'
             frameBorder='0'
             allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture'
